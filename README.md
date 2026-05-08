@@ -5,7 +5,7 @@ Welcome to my **Data Engineering Portfolio** — a place where I showcase my jou
 ---
 
 ## 🔹 About Me
-- **Experience:** 3+ years in Data Engineering and ETL (Informatica)  
+- **Experience:** 4+ years in Data Engineering and ETL (Informatica)  
 - **Passion:** Building end-to-end pipelines, optimizing workflows, exploring modern Big Data frameworks  
 - **Learning:** Spark, PySpark, Delta Lake, Cloud Data Platforms (AWS/GCP/Azure)  
 - **Style:** Hands-on, growth-oriented, and rustic — learning as I go  
