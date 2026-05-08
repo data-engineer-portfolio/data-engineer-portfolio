@@ -33,19 +33,19 @@ Spark Structured Streaming
 
 ## 📌 Featured Projects
 
-### 1. [Diabetes Risk Prediction Pipeline](projects/diabetes-risk-pipeline/README.md)  
+### 1. [Diabetes Risk Prediction Pipeline](/diabetes-risk-pipeline/README.md)  
 - End-to-end **data pipeline** using Medallion architecture  
 - ETL transformations, ML model training, and SHAP explainability  
 - **Tech:** Python, PySpark, Delta Lake, ADLS Gen2, MLflow, Databricks  
 
-### 2. [E-commerce Data Pipeline](projects/ecommerce-data-pipeline/README.md)  
+### 2. [E-commerce Data Pipeline](/ecommerce-data-pipeline/README.md)  
 - Scalable ETL pipeline for **large e-commerce datasets**  
 - Schema enforcement, transformations, Delta Lake storage  
 - **Tech:** PySpark, Delta Lake, ADLS Gen2, Databricks  
 
-### 3. [Streaming ETL Pipeline](learning-projects/streaming-etl/README.md)  
-- Real-time ingestion and processing using **Spark Structured Streaming**  
-- Experimentation with **Delta Lake, ADLS Gen2, and batch + streaming pipelines**  
+### 3. [Real-Time Fraud Detection System](/fraud-detection-system/README.md)  
+- Near real-time ingestion and processing using Spark and real datasets from Kaggle
+- Experimentation with **Delta Lake, ADLS Gen2, and batch  pipelines**  
 
 ---
 
