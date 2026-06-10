@@ -1,6 +1,6 @@
-# Hi there 👋, I’m a Data Engineer in the making!  
+# Hi there 👋, I’m a Data + AI Engineer in the making!  
 
-Welcome to my **Data Engineering Portfolio** — a place where I showcase my journey from **ETL developer to modern Data Engineer**. I love building **scalable, efficient, and reusable data pipelines** while continuously learning new technologies.  
+Welcome to my **Data + AI Engineering Portfolio** — a place where I showcase my journey from **ETL developer to modern Data + AI  Engineer**. I love building **scalable, efficient, and reusable data pipelines** while continuously learning new technologies.  
 
 ---
 
@@ -55,7 +55,7 @@ These smaller “rustic” projects reflect my **growth mindset** — exploring 
 - Data lake experiments with Delta Lake   
 - orchestration and workflow automation  
 - Real-time data ingestion  
-
+- AI Hands On Projetcs
 ---
 
 ## 📈 Portfolio Highlights
