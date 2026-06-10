@@ -7,7 +7,7 @@
 
 ---
 
-Data Engineer with 4+ years of experience building ETL pipelines, cloud data platforms, and scalable analytics solutions — now expanding into AI Engineering: LLMs, RAG, AI agents, and production ML systems.
+Data Engineer with experience building ETL pipelines, cloud data platforms, and scalable analytics solutions — now expanding into AI Engineering: LLMs, RAG, AI agents, and production ML systems.
 
 ---
 
