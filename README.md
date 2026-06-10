@@ -1,76 +1,146 @@
-# Hi there 👋, I’m a Data + AI Engineer in the making!  
+# Hi there 👋, I'm Vidyullatha
 
-Welcome to my **Data + AI Engineering Portfolio** — a place where I showcase my journey from **ETL developer to modern Data + AI  Engineer**. I love building **scalable, efficient, and reusable data pipelines** while continuously learning new technologies.  
+### Data Engineer → AI Engineer | Cloud & Analytics | Building Intelligent Data Systems
 
----
-
-## 🔹 About Me
-- **Experience:** 4+ years in Data Engineering and ETL (Informatica)  
-- **Passion:** Building end-to-end pipelines, optimizing workflows, exploring modern Big Data frameworks  
-- **Learning:** Spark, PySpark, Delta Lake, Cloud Data Platforms (AWS/GCP/Azure)  
-- **Style:** Hands-on, growth-oriented, and rustic — learning as I go  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidyullatha-polavarapu)
+[![Email](https://img.shields.io/badge/Email-latha.rv%40yahoo.com-D44638?style=flat&logo=yahoo&logoColor=white)](mailto:latha.rv@yahoo.com)
 
 ---
 
-## 🛠️ Tech Stack
-
-**Programming & Querying:**  
-Python | PySpark | SQL | Bash  
-
-**Data Engineering & Storage:**  
-ETL | Delta Lake | ADLS Gen2 | Data Warehousing | Parquet | S3  
-
-**Orchestration & Workflow:**  
-GitHub Actions  
-
-**Big Data & Streaming:**  
-Spark Structured Streaming   
-
-**Cloud Platforms:**  
-**Azure** (Databricks, Data Factory)  
+Data Engineer with 4+ years of experience building ETL pipelines, cloud data platforms, and scalable analytics solutions — now expanding into AI Engineering: LLMs, RAG, AI agents, and production ML systems.
 
 ---
 
-## 📌 Featured Projects
+## 🛠️ Technical Skills
 
-### 1. [Diabetes Risk Prediction Pipeline](/diabetes-risk-pipeline/README.md)  
-- End-to-end **data pipeline** using Medallion architecture  
-- ETL transformations, ML model training, and SHAP explainability  
-- **Tech:** Python, PySpark, Delta Lake, ADLS Gen2, MLflow, Databricks  
-
-### 2. [E-commerce Data Pipeline](/ecommerce-data-pipeline/README.md)  
-- Scalable ETL pipeline for **large e-commerce datasets**  
-- Schema enforcement, transformations, Delta Lake storage  
-- **Tech:** PySpark, Delta Lake, ADLS Gen2, Databricks  
-
-### 3. [Real-Time Fraud Detection System](/fraud-detection-system/README.md)  
-- Near real-time ingestion and processing using Spark and real datasets from Kaggle
-- Experimentation with **Delta Lake, ADLS Gen2, and batch  pipelines**  
+| Area | Technologies |
+|------|-------------|
+| **Core** | Python · PySpark · SQL · Bash |
+| **Data Engineering** | ETL/ELT · Delta Lake · Medallion Architecture · Data Warehousing · Data Quality · Spark Structured Streaming |
+| **Cloud Platforms** | Azure Databricks · Azure Data Factory · ADLS Gen2 · AWS S3 |
+| **AI / ML** | MLflow · SHAP · Feature Engineering · Model Deployment · LLMs · RAG · Vector Databases |
+| **DevOps** | Git · GitHub · GitHub Actions · CI/CD |
 
 ---
 
-## 🌱 Learning Projects
-These smaller “rustic” projects reflect my **growth mindset** — exploring new frameworks, pipelines, and cloud technologies.  
+## 📌 Data Engineering Projects
 
-- Data lake experiments with Delta Lake   
-- orchestration and workflow automation  
-- Real-time data ingestion  
-- AI Hands On Projetcs
----
+### 🩺 Diabetes Risk Prediction Pipeline
+![Status](https://img.shields.io/badge/status-live-2ea44f)
 
-## 📈 Portfolio Highlights
-- Designed **production-ready ETL pipelines** across domains  
-- Experienced with **batch and streaming pipelines**  
-- Skilled in **cloud-based data engineering platforms (AWS, GCP, Azure)**  
-- Focused on **scalable, maintainable, and modular code**  
-- Committed to **continuous learning and skill growth**  
+End-to-end healthcare analytics and ML pipeline using Medallion Architecture.
+
+- Data ingestion and transformation across Bronze, Silver, and Gold layers
+- Feature engineering and ML model training
+- Experiment tracking with MLflow and model explainability with SHAP
+- Scalable Delta Lake implementation on Azure Databricks
+
+**Stack:** `Python` `PySpark` `Delta Lake` `Databricks` `ADLS Gen2` `MLflow` `SHAP`
 
 ---
 
-## 📫 Connect With Me
-- LinkedIn:https://www.linkedin.com/in/vidyullatha-polavarapu  
-- Email: latha.rv@yahoo.com  
+### 🛒 E-Commerce Data Platform
+![Status](https://img.shields.io/badge/status-live-2ea44f)
+
+Scalable data pipeline for processing and analyzing large-scale e-commerce datasets.
+
+- Automated ETL workflows with schema validation and enforcement
+- Data quality monitoring and Delta Lake storage optimization
+
+**Stack:** `PySpark` `Delta Lake` `Databricks` `ADLS Gen2`
 
 ---
 
-> Turning messy data into **real insights that drive decisions**.  
+### 🚨 Real-Time Fraud Detection Pipeline
+![Status](https://img.shields.io/badge/status-live-2ea44f)
+
+Streaming data solution for near-real-time fraud detection on financial transaction data.
+
+- Real-time ingestion and processing with stream-to-lakehouse architecture
+- Near real-time analytics and fraud detection experimentation
+
+**Stack:** `Spark Structured Streaming` `PySpark` `Delta Lake` `Databricks`
+
+---
+
+## 🤖 AI Engineering Projects
+
+> Building AI-powered applications that layer intelligence on top of data pipelines.
+
+### 📚 RAG Knowledge Assistant
+![Status](https://img.shields.io/badge/status-planned-8250df)
+
+Retrieval-augmented generation over custom document corpora with vector search — enabling natural language queries on private knowledge bases.
+
+**Stack (planned):** `LangChain` `OpenAI / Anthropic` `Vector DB` `Python`
+
+---
+
+### 📄 AI-Powered Document Intelligence System
+![Status](https://img.shields.io/badge/status-planned-8250df)
+
+AI system to extract, classify, and query structured data from unstructured documents at scale.
+
+**Stack (planned):** `LLMs` `OCR` `Python` `Azure`
+
+---
+
+### 💬 Customer Support AI Agent
+![Status](https://img.shields.io/badge/status-planned-8250df)
+
+LLM-powered support agent with tool use, memory, and escalation workflows — designed for real-world production constraints.
+
+**Stack (planned):** `LLMs` `LangGraph` `Python` `API Integration`
+
+---
+
+### 🧑‍💻 Data Engineering Copilot
+![Status](https://img.shields.io/badge/status-planned-8250df)
+
+LLM-assisted pipeline generation, schema inference, and query optimization for data teams — bringing AI into the data engineering workflow itself.
+
+**Stack (planned):** `LLMs` `Python` `Databricks` `SQL`
+
+---
+
+### 🔍 Semantic Search Application
+![Status](https://img.shields.io/badge/status-planned-8250df)
+
+Vector database-backed semantic search across large datasets using embeddings, going beyond keyword matching to meaning-based retrieval.
+
+**Stack (planned):** `Embeddings` `Pinecone / Weaviate` `Python`
+
+---
+
+### 🔗 Multi-Agent AI Workflow Automation
+![Status](https://img.shields.io/badge/status-planned-8250df)
+
+Orchestrated multi-agent system for automating complex, multi-step data and business workflows.
+
+**Stack (planned):** `LangGraph` `AutoGen` `Python` `LLMs`
+
+---
+
+## 🌱 Currently Learning
+
+- Generative AI & Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Agents & Agentic Workflows
+- Vector Databases & Semantic Search
+- AWS Data Engineering Services
+- MLOps & Production AI Systems
+- Apache Spark Optimization
+
+---
+
+## 📈 At a Glance
+
+- ✅ 4+ years of ETL and Data Engineering experience
+- ✅ Designed scalable batch and streaming pipelines on Azure + Databricks
+- ✅ Built end-to-end ML and analytics solutions with MLflow & SHAP
+- ✅ Actively building AI-powered applications and intelligent data products
+- ✅ Focused on production-ready, maintainable, scalable code
+
+---
+
+*Turning data into insights, and insights into intelligent solutions.*
