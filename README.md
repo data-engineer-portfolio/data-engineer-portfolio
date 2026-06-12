@@ -67,18 +67,20 @@ Streaming data solution for near-real-time fraud detection on financial transact
 
 > Building AI-powered applications that layer intelligence on top of data pipelines.
 
+### 📚 AI-Powered Medical Bot Assistant
+![Status](https://img.shields.io/badge/status-ongoing-8250df)
+A role-aware RAG assistant for MediAssist Health Network that lets doctors, nurses, billing staff, technicians, and admins query clinical protocols, billing codes, and equipment manuals in natural language — with access control enforced directly at the vector database retrieval layer.
+
+**Tech Stack:`FastAPI`,`Qdrant(hybriddense+BM25)`,`cross-Encoder reranking`,`Docling`,`Groq LLM`,`SQL RAG(SQL Lite)`,`Next.js`
+
+---
+
 ### 📚 RAG Knowledge Assistant
 ![Status](https://img.shields.io/badge/status-planned-8250df)
 
 Retrieval-augmented generation over custom document corpora with vector search — enabling natural language queries on private knowledge bases.
 
 **Stack (planned):** `LangChain` `OpenAI / Anthropic` `Vector DB` `Python`
-
-### AI-Powered Medical Bot Assistant
-![Status](https://img.shields.io/badge/status-ongoing-8250df)
-A role-aware RAG assistant for MediAssist Health Network that lets doctors, nurses, billing staff, technicians, and admins query clinical protocols, billing codes, and equipment manuals in natural language — with access control enforced directly at the vector database retrieval layer.
-
-**Tech Stack:`FastAPI`,`Qdrant(hybriddense+BM25)`,`cross-Encoder reranking`,`Docling`,`Groq LLM`,`SQL RAG(SQL Lite)`,`Next.js`
 
 ---
 
